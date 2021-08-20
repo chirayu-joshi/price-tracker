@@ -1,0 +1,1 @@
+from PriceTracker.configs import *
